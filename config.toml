@@ -1,11 +1,11 @@
 # Site settings
-baseurl = "https://berlin2019.satrdays.org/"
+baseurl = "https://gdansk2019.satrdays.org/"
 languageCode = "en-us"
-title = "satRday Berlin"
+title = "satRday"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-130530630-1"
+googleAnalytics = ""
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
@@ -17,9 +17,9 @@ googleAnalytics = "UA-130530630-1"
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "satRday Berlin"
-  description = "R conference in Berlin"
-  # email = "your@email.com"
+  name = "satRday Gdansk"
+  description = "R conference in Gdansk"
+  # email = "info@gdansksatrdays.com"
 
   # Link custom assets relative to /static
   custom_css = ["css/satrday.css"]
@@ -77,8 +77,8 @@ googleAnalytics = "UA-130530630-1"
   [params.hero]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
-    title = "satRday Berlin"
-    subtitle = "A conference for R users in Berlin 2019"
+    title = "satRday Gdansk"
+    subtitle = "The Conference for users of the R Language <br>18 May 2019</br>"
     bg = true
     buttonText = "Tell me more"
 
@@ -87,17 +87,17 @@ googleAnalytics = "UA-130530630-1"
   [params.services]
     enable = true
     title = "About"
-    subtitle = ""
+    subtitle = "Conference Details"
 
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fa-clock-o"
+      icon = "fa-fort-awesome"
       title = "Details"
-      description = "Coming soon!"
+      description = "18 May 2019 at Gdansk,POLAND"
       url = "#"
 
-    [[params.services.row.list]]
+    [[params.services.row.list]] 
       icon = "fa-laptop"
       title = "Hands on"
       description = "Practical applications and workshop sessions"
@@ -111,14 +111,14 @@ googleAnalytics = "UA-130530630-1"
 
     [[params.services.row.list]]
       icon = "fa-users"
-      title = "Community-led"
-      description = "Community organised, community focused"
+      title = "Community Lead"
+      description = "Community organised, community focussed"
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Affordable"
-      description = "Only €70"
+      description = "TBA"
       url = "#"
 
     [[params.services.row.list]]
@@ -158,12 +158,12 @@ googleAnalytics = "UA-130530630-1"
   
   # Call for papers section
   [params.callforpapers]
-    enable = false
+    enable = true
     title = "Call For Papers"
     bg = false
     CfSpage = "/test3490"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
-    dates = "09 Aug - 21 Sep 2018"
+    dates = "TBD"
 
   # Talk [Portfolio] section
   [params.portfolio]
@@ -190,7 +190,7 @@ googleAnalytics = "UA-130530630-1"
 
   # Important Dates [About] section
   [params.about]
-    enable = false
+    enable = true
     title = "Important Dates"
     subtitle = "Be prepared!"
     endpoint = "Conference"
@@ -204,77 +204,81 @@ googleAnalytics = "UA-130530630-1"
       title = "Initial Announcement"
       description = "We're organising a conference!"
 
-    # Add more events like so:
-    # [[params.about.events]]
-    #   img = "2.jpg"
-    #   date = "Second Date"
-    #   title = "Early Bird Ticket Sales"
-    #   description = "Early round of tickets now available at discount"
+    [[params.about.events]]
+      img = "2.jpg"
+      date = "Second Date"
+      title = "Early Bird Ticket Sales"
+      description = "Early round of tickets now available at discount"
 
+    [[params.about.events]]
+      img = "3.jpg"
+      date = "Third Date"
+      title = "Call For Papers"
+      description = "Submissions for speakers are now open!"
+
+    [[params.about.events]]
+      img = "4.jpg"
+      date = "Fourth Date"
+      title = "Call For Papers Ends"
+      description = "Cut off date for speaker submissions"
   
   # Location section
   [params.location]
     enable = true
-    title = "Conference Map"
+    title = "Gdansk, Poland"
     bg = true
-    iframesrc="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d200147.04413924718!2d13.258059167156823!3d52.52561644917789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84e373f035901%3A0x42120465b5e3b70!2sBerlin%2C+Germany!5e0!3m2!1sen!2sus!4v1543678842281"
+    iframesrc = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d148785.4210480884!2d18.5499464098059!3d54.361006260551584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd731c14d4fa6f%3A0x9bb9fbf163b7be8d!2zR2RhxYRzaw!5e0!3m2!1str!2spl!4v1545595097333"
 
   # Team section
   [params.team]
     enable = true
     # Possibility to center items
-    center = true
+    #center = true
     title = "Team"
     subtitle = "The people putting it together"
     bg = false
     description = ""
-    speakers = ""
+    speakers = "Speakers"
     
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "noa.jpeg"
-      name = "Noa Tamir"
-      position = "Director of Data Science at [AUTO1](https://www.auto1-group.com/), [RLadies Berlin](https://www.meetup.com/rladies-berlin/) organiser"
+      img = "faceholder.png"
+      name = "Olgun Aydin"
+      position = "Co-head"
       reportsTo = ""
-      # livesIn = "[Munich, Germany](#some-maps-url)"
-      # scope = [
-      #   "Role 1 for [thing 1](#)",
-      #   "Role 2 for [thing 2](#)",
-      #   "Role 3 for [thing 3](#)"
-      # ]
-      # For bio markdown and even multiline strings are available.
-      # bio = """I do things,
-      # and stuff"""
+      livesIn = "Gdansk, Poland"
       social = [
-        ["fa-twitter", "https://twitter.com/noatamir"],
-        # ["fa-github", "#"],
-        ["fa-linkedin", "https://www.linkedin.com/in/noatamir/"],
-        ["fa-home", "http://www.noatamir.com/"]
+        ["fa-twitter", "#"],
+        ["fa-github", "#"],
+        ["fa-linkedin", "#"]
       ]
 
     [[params.team.members]]
-      img = "jakob.jpeg"
-      name = "Jakob Graff"
-      position = "Data Science Team Lead at [Babbel](https://www.babbel.com/)"
+      img = "faceholder.png"
+      name = "Ania Rybinska"
+      position = "Co-head"
+      reportsTo = ""
+      livesIn = "Gdansk, Poland"
       social = [
-        # ["fa-twitter", "#"],
-        # ["fa-github", "#"],
-        ["fa-linkedin", "https://www.linkedin.com/in/jakob-graff-a6113a3a/"]
+        ["fa-twitter", "#"],
+        ["fa-github", "#"],
+        ["fa-linkedin", "#"]
       ]
 
     [[params.team.members]]
-      img = "steve.jpeg"
-      name = "Steve Cunningham"
-      position = "Data Analyst at [ResearchGate](https://www.researchgate.net/)"
-      social = [
-        # ["fa-twitter", "#"],
-        # ["fa-github", "#"],
-        ["fa-linkedin", "https://www.linkedin.com/in/stephen-cunningham-a75286104/"]
-      ]
-
+          img = "faceholder.png"
+          name = "Michal Maj"
+          position = "Co-head"
+          reportsTo = ""
+          livesIn = "Gdansk, Poland"
+          social = [
+            ["fa-twitter", "#"],
+            ["fa-github", "#"],
+            ["fa-linkedin", "#"]
+          ]
 
   # Client section
   [params.clients_list]
@@ -313,7 +317,7 @@ googleAnalytics = "UA-130530630-1"
   [params.contact]
     enable = true
     title = "Contact us"
-    subtitle  = "Any questions? Want to get involved? Write to us!"
+    subtitle  = "Lorem ipsum dolor sit amet consectetur."
     buttonText = "Send message"
     # netlify = true
 
@@ -335,7 +339,7 @@ googleAnalytics = "UA-130530630-1"
     # add some custom JS script to finish the implementation.
     # postURL = "https://example.com/mailout/"
 
-    email = "satrday.berlin@gmail.com"
+    email = "info@gdanskstardays.com"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
@@ -346,19 +350,19 @@ googleAnalytics = "UA-130530630-1"
 
     # 'warning' defines error messages for invalid inputs
     [params.contact.form.name]
-      text = "Your Name (required)"
+      text = "Your Name *"
       warning = "Please enter your name."
 
     [params.contact.form.email]
-      text = "Your Email (required)"
+      text = "Your Email *"
       warning = "Please enter your email address."
 
     [params.contact.form.phone]
-      text = "Your Phone (required)"
+      text = "Your Phone *"
       warning = "Please enter your phone number."
 
     [params.contact.form.message]
-      text = "Your Message (required)"
+      text = "Your Message *"
       warning = "Please enter a message."
 
       # Add optional form fields to identify contact forms
@@ -385,10 +389,10 @@ googleAnalytics = "UA-130530630-1"
       link = "https://github.com/satRdays"
       title = "GitHub"
 
-    # [[params.footer.quicklinks]]
-    #   text = "Privacy Policy"
-    #   link = "#"
+    [[params.footer.quicklinks]]
+      text = "Privacy Policy"
+      link = "#"
 
-    # [[params.footer.quicklinks]]
-    #   text = "Terms of Use"
-    #   link = "#"
+    [[params.footer.quicklinks]]
+      text = "Terms of Use"
+      link = "#"
