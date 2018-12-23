@@ -1,7 +1,7 @@
 img = "faceholder.png"
-name = "Speaker Name 01"
-organisation = "Company 1"
-role = "Role 1"
+name = "TBA"
+organisation = ""
+role = ""
 social = [
         ["fa-twitter", "#"],
         ["fa-github", "#"],
