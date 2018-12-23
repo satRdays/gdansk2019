@@ -1,0 +1,10 @@
+img = "faceholder.png"
+name = "TBA"
+organisation = ""
+role = ""
+social = [
+        ["fa-twitter", "#"],
+        ["fa-github", "#"],
+        ["fa-linkedin", "#"],
+        ["fa-globe", "#"]
+      ]
