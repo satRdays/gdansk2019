@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="100c762b-ea04-4688-bde1-19e1639313c5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/speakers/Speaker01.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/speakers/Speaker01.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/speakers/Speaker02.toml" beforeDir="false" afterPath="$PROJECT_DIR$/data/speakers/Speaker02.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-satrdays-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-satrdays-theme" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-satrdays-theme/static/img/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-satrdays-theme/static/img/header-bg.jpg" afterDir="false" />
     </list>
@@ -37,41 +35,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="toml" value="176" />
+          <entry key="toml" value="182" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="TOML file" value="176" />
+          <entry key="TOML file" value="182" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="120" column="24" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/speakers/Speaker02.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/speakers/Speaker01.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="624">
+              <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -85,6 +65,8 @@
       <find>speakers</find>
       <find>speaker</find>
       <find>tba</find>
+      <find>te</find>
+      <find>R co</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,9 +75,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/data/speakers/Speaker02.toml" />
         <option value="$PROJECT_DIR$/data/speakers/Speaker01.toml" />
+        <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
@@ -198,13 +180,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="120" column="24" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/speakers/Speaker02.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -214,8 +189,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/speakers/Speaker01.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="75">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
         </state>
       </provider>
     </entry>
