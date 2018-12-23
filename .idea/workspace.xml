@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="100c762b-ea04-4688-bde1-19e1639313c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-satrdays-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-satrdays-theme" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/hugo-satrdays-theme/static/img/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-satrdays-theme/static/img/header-bg.jpg" afterDir="false" />
     </list>
@@ -24,11 +23,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="jpg" value="1" />
           <entry key="toml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="TOML file" value="2" />
         </counts>
@@ -50,10 +51,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+            <state relative-caret-position="309">
+              <caret line="77" column="65" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="65" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/hugo-satrdays-theme/static/img/header-bg.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -67,6 +73,7 @@
       <find>tba</find>
       <find>te</find>
       <find>R co</find>
+      <find>satrday</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,8 +115,43 @@
             <path>
               <item name="gdansk2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="gdansk2019" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gdansk2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdansk2019" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-satrdays-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gdansk2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdansk2019" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-satrdays-theme" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="speakers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gdansk2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdansk2019" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-satrdays-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gdansk2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdansk2019" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-satrdays-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gdansk2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gdansk2019" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="hugo-satrdays-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,10 +236,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hugo-satrdays-theme/static/img/header-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="80" column="18" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        <state relative-caret-position="309">
+          <caret line="77" column="65" selection-start-line="77" selection-start-column="59" selection-end-line="77" selection-end-column="65" />
         </state>
       </provider>
     </entry>
