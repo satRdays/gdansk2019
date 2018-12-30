@@ -5,7 +5,8 @@ title = "satRday"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-131541418-1"
+
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
