@@ -191,7 +191,7 @@ googleAnalytics = "UA-131541418-1"
 
   # Important Dates [About] section
   [params.about]
-    enable = true
+    enable = false
     title = "Important Dates"
     subtitle = "Be prepared!"
     endpoint = "Conference"
