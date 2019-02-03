@@ -94,9 +94,9 @@ googleAnalytics = "UA-131541418-1"
 
     [[params.services.row.list]]
       icon = "fa-fort-awesome"
-      title = "Details"
-      description = "Call for Papers! Submit your abstract!"
-      url = "#"
+      title = "Call for papers"
+      description = " Submit your abstract!"
+      url = "https://sessionize.com/satrday-gdansk-2019"
 
     [[params.services.row.list]] 
       icon = "fa-laptop"
