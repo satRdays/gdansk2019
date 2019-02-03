@@ -239,7 +239,7 @@ googleAnalytics = "UA-131541418-1"
     subtitle = "The people putting it together"
     bg = false
     description = ""
-    speakers = "Speakers"
+    #speakers = "Speakers"
     
 
     # All team member's pictures are stored under 'static/img/team'.
