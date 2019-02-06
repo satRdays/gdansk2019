@@ -228,7 +228,7 @@ googleAnalytics = "UA-131541418-1"
     enable = true
     title = "Gdansk, Poland"
     bg = true
-    iframesrc = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d148785.4210480884!2d18.5499464098059!3d54.361006260551584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd731c14d4fa6f%3A0x9bb9fbf163b7be8d!2zR2RhxYRzaw!5e0!3m2!1str!2spl!4v1545595097333"
+    iframesrc = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2324.190122775989!2d18.61694431617679!3d54.37129098020666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd749a540db041%3A0xf32165c952d275a7!2sGabriela+Narutowicza+11%2F12%2C+80-219+Gda%C5%84sk%2C+Poland!5e0!3m2!1sen!2str!4v1549451464959"
 
   # Team section
   [params.team]
