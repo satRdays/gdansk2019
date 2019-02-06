@@ -297,9 +297,9 @@ googleAnalytics = "UA-131541418-1"
       logo = "found.png"
       link = "#"
 
-    #[[params.clients]]
-     # logo = "designmodo.jpg"
-     # link = "#"
+    [[params.clients]]
+      logo = "logo-pg-small-en.png"
+      link = "#"
 
     #[[params.clients]]
     #  logo = "themeforest.jpg"
