@@ -283,31 +283,31 @@ googleAnalytics = "UA-131541418-1"
 
   # Client section
   [params.clients_list]
-    enable = false
+    enable = true
     # Possibility to center items
     #center = true
     # Optional client title specifying the involvement
-    title = "Sponsors"
+    title = "Supporters"
     bg = true
 
     # All the clients' logos are stored under 'static/img/logos'.
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
     [[params.clients]]
-      logo = "envato.jpg"
+      logo = "found.png"
       link = "#"
 
-    [[params.clients]]
-      logo = "designmodo.jpg"
-      link = "#"
+    #[[params.clients]]
+     # logo = "designmodo.jpg"
+     # link = "#"
 
-    [[params.clients]]
-      logo = "themeforest.jpg"
-      link = "#"
+    #[[params.clients]]
+    #  logo = "themeforest.jpg"
+    #  link = "#"
 
-    [[params.clients]]
-      logo = "creative-market.jpg"
-      link = "#"
+    #[[params.clients]]
+    #  logo = "creative-market.jpg"
+    #  link = "#"
   
   [params.diversity]
     enable = true
