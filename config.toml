@@ -185,13 +185,13 @@ googleAnalytics = "UA-131541418-1"
 
   # Schedule section
   [params.schedule]
-    enable = true
+    enable = false
     title = "Schedule"
     bg = false
 
   # Important Dates [About] section
   [params.about]
-    enable = false
+    enable = true
     title = "Important Dates"
     subtitle = "Be prepared!"
     endpoint = "Conference"
@@ -201,27 +201,27 @@ googleAnalytics = "UA-131541418-1"
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
-      date = "First Date"
+      date = "10 November 2018"
       title = "Initial Announcement"
-      description = "We're organising a conference!"
+      description = "satRday conference is going to happen in Gdansk!"
 
     [[params.about.events]]
       img = "2.jpg"
-      date = "Second Date"
-      title = "Early Bird Ticket Sales"
-      description = "Early round of tickets now available at discount"
+      date = "15 Jan 2019"
+      title = "Call for papers
+      description = "Submit your proposal for workshop sessions, lightining talks and oral presentations"
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "Third Date"
-      title = "Call For Papers"
-      description = "Submissions for speakers are now open!"
+      date = "15 April 2019"
+      title = "Call For Papers Ends"
+      description = "Submit your papers before 15 April 2019"
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "Fourth Date"
-      title = "Call For Papers Ends"
-      description = "Cut off date for speaker submissions"
+      date = "30 April 2018"
+      title = "Informing speakers"
+      description = ""
   
   # Location section
   [params.location]
