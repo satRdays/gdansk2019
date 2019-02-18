@@ -208,13 +208,13 @@ googleAnalytics = "UA-131541418-1"
     
 	[[params.about.events]]
       img = "1.jpg"
-      date = "17 May 2018"
-      title = "Pre-meeting"
+      date = "30 April 2018"
+      title = "Notifying speakers"
       description = "Workshop sessions ! "
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "1 May 2019"
+      date = "5 May 2019"
       title = "Last day for registration"
       description = "Hurry up! register before 1st of May"
   
