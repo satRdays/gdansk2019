@@ -95,13 +95,13 @@ googleAnalytics = "UA-131541418-1"
     [[params.services.row.list]]
       icon = "fa-fort-awesome"
       title = "Call for papers"
-      description = " Submit your abstract!"
+      description = " Submit your abstract for workshops, oral presentations or lightining talks!"
       url = "https://sessionize.com/satrday-gdansk-2019"
 
     [[params.services.row.list]] 
       icon = "fa-laptop"
-      title = "Hands on"
-      description = "Practical applications and workshop sessions"
+      title = "Workshop Sessions"
+      description = "Practical applications and workshop sessions will take place on 17th of May in same venue"
       url = "#"
 
     [[params.services.row.list]]
@@ -213,8 +213,8 @@ googleAnalytics = "UA-131541418-1"
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "30 April 2018"
-      title = "Informing speakers"
+      date = "17, 18 May 2018"
+      title = "Workshop session (17 May), Conference session(18 May)"
       description = ""
   
   # Location section
