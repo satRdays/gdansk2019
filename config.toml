@@ -210,7 +210,7 @@ googleAnalytics = "UA-131541418-1"
       img = "1.jpg"
       date = "30 April 2018"
       title = "Notifying speakers"
-      description = "Workshop sessions ! "
+      description = "Accepted papers will be anounced"
 
     [[params.about.events]]
       img = "4.jpg"
