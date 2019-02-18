@@ -119,7 +119,7 @@ googleAnalytics = "UA-131541418-1"
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Affordable"
-      description = "Only conference: 50 PLN <br> Only workshops: 100 PLN <br/> <br> Conference & Workshops: 100 PLN <br/>"
+      description = "Only conference: 50 PLN <br> Only workshops: 100 PLN <br/> Conference & Workshops: 100 PLN"
       url = "#"
 
     [[params.services.row.list]]
