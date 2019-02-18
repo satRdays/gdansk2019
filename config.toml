@@ -209,7 +209,7 @@ googleAnalytics = "UA-131541418-1"
       img = "2.jpg"
       date = "15 Jan 2019"
       title = "Call for papers
-      description = "Submit your proposal for workshop sessions, lightining talks and oral presentations"
+      description = "Submit your proposal"
 
     [[params.about.events]]
       img = "3.jpg"
