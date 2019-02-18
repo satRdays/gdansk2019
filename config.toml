@@ -199,22 +199,23 @@ googleAnalytics = "UA-131541418-1"
     # The events will be listed from the top to the bottom.
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
-    [[params.about.events]]
-      img = "1.jpg"
-      date = "10 November 2018"
-      title = "Initial Announcement"
-      description = "satRday conference is going to happen in Gdansk!"
-     
-    [[params.about.events]]
+
+	[[params.about.events]]
       img = "3.jpg"
       date = "15 April 2019"
       title = "Call For Papers Ends"
       description = "Submit your papers before 15 April 2019"
+    
+	[[params.about.events]]
+      img = "1.jpg"
+      date = "17 May 2018"
+      title = "Pre-meeting"
+      description = "Workshop sessions ! "
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "17, 18 May 2018"
-      title = "Workshop session (17 May), Conference session(18 May)"
+      date = "18 May 2018"
+      title = "Conference ! satRday Gdansk !"
       description = ""
   
   # Location section
