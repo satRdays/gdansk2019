@@ -204,7 +204,7 @@ googleAnalytics = "UA-131541418-1"
       img = "3.jpg"
       date = "15 April 2019"
       title = "Call For Papers Ends"
-      description = "Submit your papers before 15 April 2019"
+      description = "Submit your proposals before 15 April 2019"
     
 	[[params.about.events]]
       img = "1.jpg"
