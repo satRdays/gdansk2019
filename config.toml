@@ -174,7 +174,7 @@ googleAnalytics = "UA-131541418-1"
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Invited speakers"
-    subtitle = "Who's saying what"
+    subtitle = ""
     bg = true
 
     [params.portfolio.modal]
