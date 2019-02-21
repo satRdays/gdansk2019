@@ -1,13 +1,13 @@
 modalID: 1
-title: "Machine Learning meets Design"
+title: "Design meets Machine Learning"
 subtitle: "First Subtitle"
 date: 1970-01-01
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: p_biecek.jpeg
-client: Przemyslaw Biecek & Hanna Dyrcz
+preview: hanna_dyrcz.jpeg
+client: Hanna Dyrcz
 clientLink: "#"
 category: Invited talks
-description: "Describe 1"
+description: ""
 talk: true
