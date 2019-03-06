@@ -207,13 +207,13 @@ googleAnalytics = "UA-131541418-1"
       description = "Submit your proposals before 14 April 2019"
     
 	[[params.about.events]]
-      img = "1.jpg"
+      img = "anouncement.jpg"
       date = "30 April 2018"
       title = "Notifying speakers"
       description = "Accepted papers will be anounced"
 
     [[params.about.events]]
-      img = "4.jpg"
+      img = "lastday.jpg"
       date = "5 May 2019"
       title = "Last day for registration"
       description = "Hurry up! register before 5th of May"
