@@ -55,6 +55,10 @@
       {{ partial "clients.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.sponsor_list.enable }}
+      {{ partial "sponsors.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.contact.enable }}
       {{ partial "contact.html" . }}
     {{ end }}
