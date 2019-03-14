@@ -314,7 +314,7 @@ googleAnalytics = "UA-131541418-1"
 
   # Sponsors section
   [params.sponsors_list]
-    enable = true
+    enable = false
     # Possibility to center items
     #center = true
     # Optional client title specifying the involvement
