@@ -314,12 +314,12 @@ googleAnalytics = "UA-131541418-1"
 
   # Sponsors section
   [params.sponsors_list]
-    enable = false
+    enable = true
     # Possibility to center items
     #center = true
     # Optional client title specifying the involvement
     title = "Sponsors"
-    bg = true
+    bg = false
 
     # All the sponsors' logos are stored under 'static/img/logos'.
     # Replace them with your sponsors's logos.
