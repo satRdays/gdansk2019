@@ -333,7 +333,7 @@ googleAnalytics = "UA-131541418-1"
       link = "#"
 
     [[params.sponsors]]
-      logo = "r.png"
+      logo = "r2.png"
       link = "#"
 
     [[params.sponsors]]
@@ -344,7 +344,7 @@ googleAnalytics = "UA-131541418-1"
       logo = "Logo-pwc.png"
       link = "#"
     [[params.sponsors]]
-      logo = "sticker-mule.png"
+      logo = "sticker_mule.png"
       link = "#"
 
   # Contact section
