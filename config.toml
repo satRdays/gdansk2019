@@ -314,7 +314,7 @@ googleAnalytics = "UA-131541418-1"
 
   # Sponsors section
   [params.sponsors_list]
-    enable = false
+    enable = true
     # Possibility to center items
     #center = true
     # Optional client title specifying the involvement
@@ -329,18 +329,22 @@ googleAnalytics = "UA-131541418-1"
     #  link = "#"
 
     [[params.sponsors]]
-      logo = "triger.png"
+      logo = "NewUlogo-large-1.png"
       link = "#"
 
     [[params.sponsors]]
-      logo = "found.png"
+      logo = "r.png"
       link = "#"
 
     [[params.sponsors]]
-      logo = "pg.png"
+      logo = "jumping-rivers.png"
+      link = "#"
+
+    [[params.sponsors]]
+      logo = "Logo-pwc.png"
       link = "#"
     [[params.sponsors]]
-      logo = "pg_student_club.png"
+      logo = "sticker-mule.png"
       link = "#"
 
   # Contact section
