@@ -345,7 +345,7 @@ googleAnalytics = "UA-131541418-1"
       link = "#"
 
     [[params.sponsors]]
-      logo = "logo.png"
+      logo = "appsilon-logo.png"
       link = "#"
 
     [[params.sponsors]]
