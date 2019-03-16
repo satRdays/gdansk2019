@@ -343,6 +343,11 @@ googleAnalytics = "UA-131541418-1"
     [[params.sponsors]]
       logo = "Logo-pwc.png"
       link = "#"
+
+    [[params.sponsors]]
+      logo = "appsilon.png"
+      link = "#"
+
     [[params.sponsors]]
       logo = "sticker_mule.png"
       link = "#"
