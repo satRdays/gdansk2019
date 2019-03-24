@@ -23,12 +23,13 @@ description: "With the release of the R Keras package (https://keras.rstudio.com
 
               Please make sure to bring your laptop including an up to date R version, RStudio and install Keras:
 
-              # Setup Keras (Make sure to install required prerequisites, before installing Keras using the commands below)
+              Setup Keras (Make sure to install required prerequisites, before installing Keras using the commands below)
               install_keras() # CPU version
-              # install_keras(tensorflow = 'gpu') # GPU version (recommended)
+              install_keras(tensorflow = 'gpu') # GPU version (recommended)
 
-        --------------------------------------- --------------------------------------- ---------------------------------------
+        <p>
         Bio
+        <p/>
         I’m a Data Scientist and a freelancer working primarily in R. In a last 3+ years I was working for companies like Appsilon Data Science, Grupa Wirtualna Polska and PBS when I was solving complicated machine learning problems and building advanced Shiny applications. Nowadays I’m interested mostly in deep learning and it’s applications.
         "
 talk: true

@@ -12,9 +12,8 @@ category: Workshops
 description: "Ever wonder why the majority of Shiny apps look the same? Do you want your Shiny app to stand out? If yes, this tutorial on building extraordinary Shiny dashboards is for you.
               In this session, we will cover how to build dashboards with SemanticUI components. First, we will review our options and discuss the differences between the shinydashboard and semantic.dashboard packages. Second, we will create the first app using standard Bootstrap components. Next, we will switch to the semantic.dashboard and extend the app with SemanticUI components to create a fresh and highly interactive UI using both elements. We will further create SemanticUI Shiny inputs and show how to build more advanced components such as text inputs, date inputs, dropdowns and more. After that, we will change the default theme and show how to modify it. We will demonstrate how to use CSS and classes to bring a dashboard from research to business level. Finally, we will add an Extras section that will cover deployment and authentication.
               We assume our participants have basic knowledge of R Shiny. The only requirement is to bring a laptop with the latest version of the Shiny, shiny.dashboard, shiny.semantic and semantic.dashboard packages.
-
-              --------------------------------------- --------------------------------------- ---------------------------------------
+<p>
               Bio
-
+<p/>
               Dominik Krzemiński is an Open Source Tech Lead at Appsilon Data Science. He enjoys contributing to open source tools, primarily in R and Python. Dominik participated in Google Summer of Code program twice, developing Python tools supporting neuroscientific analysis. Before focusing entirely on Appsilon’s open source projects, he participated in bioinformatics data analysis and visualization projects. Currently, Dominik pursues PhD in computational neuroscience at Cardiff University. Privately, a fan of all kinds of board sports and capoeira."
 talk: true
