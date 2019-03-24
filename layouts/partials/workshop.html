@@ -10,7 +10,7 @@
             </div>
         </div>
         <div class="Workshop">
-            {{ range .Site.Data.workshops}}
+            {{ range .Site.Data.workshop}}
             {{ if eq .workshop true }}
             <a href="#workshopModal{{ .modalID }}" class="Workshop" data-toggle="modal">
                 <img src="img/workshop/{{ .preview }}" class="Workshop-image" alt="">
