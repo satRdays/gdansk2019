@@ -31,6 +31,10 @@
       {{ partial "portfolio.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.workshop.enable }}
+      {{ partial "workshop.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.schedule.enable }}
       {{ partial "schedule.html" . }}
     {{ end }}
