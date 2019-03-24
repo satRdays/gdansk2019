@@ -12,7 +12,7 @@
         <div class="Workshop">
             {{ range .Site.Data.workshops}}
             {{ if eq .talk true }}
-            <a href="#workshopModal{{ .modalID }}" class="Workshop" data-toggle="modal">
+            <a href="#portfolioModal{{ .modalID }}" class="Workshop" data-toggle="modal">
                 <img src="img/workshop/{{ .preview }}" class="Workshop-image" alt="">
                 <div class="Workshop-title">
                     <h4>{{ .title | markdownify }}</h4>
