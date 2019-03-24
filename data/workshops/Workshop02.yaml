@@ -24,8 +24,8 @@ description: "With the release of the R Keras package (https://keras.rstudio.com
               <p>Please make sure to bring your laptop including an up to date R version, RStudio and install Keras:<p/>
 
               Setup Keras (Make sure to install required prerequisites, before installing Keras using the commands below)
-              install_keras() # CPU version
-              install_keras(tensorflow = 'gpu') # GPU version (recommended)
+               <p>install_keras() # CPU version<p/>
+               <p>install_keras(tensorflow = 'gpu') # GPU version (recommended)<p/>
 
         <p>
         Bio
