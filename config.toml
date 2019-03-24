@@ -329,27 +329,7 @@ googleAnalytics = "UA-131541418-1"
     #  link = "#"
 
     [[params.sponsors]]
-      logo = "NewUlogo-large-1.png"
-      link = "#"
-
-    [[params.sponsors]]
-      logo = "r2.png"
-      link = "#"
-
-    [[params.sponsors]]
-      logo = "jumping-rivers.png"
-      link = "#"
-
-    [[params.sponsors]]
-      logo = "Logo-pwc.png"
-      link = "#"
-
-    #[[params.sponsors]]
-    #  logo = "appsilon-logo.png"
-    #  link = "#"
-
-    [[params.sponsors]]
-      logo = "sticker_mule.png"
+      logo = "sponsors.png"
       link = "#"
 
   # Contact section
