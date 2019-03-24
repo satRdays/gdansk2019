@@ -102,7 +102,7 @@ googleAnalytics = "UA-131541418-1"
       icon = "fa-laptop"
       title = "Workshop Sessions"
       description = "Practical applications and workshop sessions will take place on 17th of May in same venue"
-      url = "partials/workshop.html"
+      url = "workshop.html"
 
     [[params.services.row.list]]
       icon = "fa-graduation-cap"
