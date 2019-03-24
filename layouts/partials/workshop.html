@@ -12,9 +12,9 @@
         <div class="Workshops">
             {{ range .Site.Data.workshops}}
             {{ if eq .talk true }}
-            <a href="#workshopModal{{ .modalID }}" class="Talk" data-toggle="modal">
-                <img src="img/workshop/{{ .preview }}" class="Talk-image" alt="">
-                <div class="Talk-title">
+            <a href="#workshopModal{{ .modalID }}" class="Workshop" data-toggle="modal">
+                <img src="img/workshop/{{ .preview }}" class="Workshop-image" alt="">
+                <div class="Workshop-title">
                     <h4>{{ .title | markdownify }}</h4>
                     <p class="text-muted">{{ .client | markdownify }}</p>
                 </div>
