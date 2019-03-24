@@ -181,7 +181,7 @@ googleAnalytics = "UA-131541418-1"
       client = "Client"
       date = "Date"
       category = "Category"
-      buttonText = "Close project"
+      buttonText = "Close"
 
    # Workshop section
    [params.workshop]
@@ -198,7 +198,7 @@ googleAnalytics = "UA-131541418-1"
        client = "Client"
        date = "Date"
        category = "Category"
-       buttonText = "Close project"
+       buttonText = "Close"
 
   # Schedule section
   [params.schedule]
