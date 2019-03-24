@@ -282,7 +282,7 @@ googleAnalytics = "UA-131541418-1"
     # Possibility to center items
     #center = true
     # Optional client title specifying the involvement
-    title = "Supporters"
+    title = "Organizers"
     bg = true
 
     # All the clients' logos are stored under 'static/img/logos'.
@@ -331,7 +331,6 @@ googleAnalytics = "UA-131541418-1"
     [[params.sponsors]]
       logo = "sponsors.png"
       link = "#"
-      weight = 25
 
   # Contact section
   [params.contact]
