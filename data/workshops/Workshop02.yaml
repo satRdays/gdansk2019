@@ -1,13 +1,34 @@
 modalID: 2
-title: "Design meets Machine Learning"
-subtitle: "Second Subtitle"
-date: 1970-01-02
+title: "Introduction to deep learning in R with Keras"
+subtitle: "Keras Workshop"
+date: 17-05-2019
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
 preview: hanna_dyrcz.jpeg
-client: Hanna Dyrcz
+client: Michal Maj
 clientLink: "#"
-category: Invited talks
-description: "Hanna Dyrcz is a graphic designer based in Warsaw, focusing mainly on data visualization, branding and visual communication. Awarded in Information Is Beautiful Awards, HOW International Design Awards, Polish Graphic Design Awards, KTR and others. Strongly interested in UX, data art and theory of perception."
+category: Workshops
+description: "With the release of the R Keras package (https://keras.rstudio.com/) (by JJ Allaire and Francois Chollet) at the end of 2017 / beginning 2018 the topic of artificial neural networks and especially deep learning in R became red-hot within the R community.
+
+              In this workshop you will get answers for the following questions:
+              • What are fully connected and convolutional neural networks ?
+              • How to build a sequential model in Keras (keras_model_sequential() function) ?
+              • How to compile and fit neural networks in Keras (compile() and fit() functions) ?
+              • How to add regularization to neural networks (L1, L2, dropout) ?
+              • How to save and load existing models ?
+              • How to perform data ingestion and augmentation using generators ?
+              • How to use pre-trained models and perform fine-tuning ?
+              • How to use callbacks ?
+
+              Please make sure to bring your laptop including an up to date R version, RStudio and install Keras:
+
+              # Setup Keras (Make sure to install required prerequisites, before installing Keras using the commands below)
+              install_keras() # CPU version
+              # install_keras(tensorflow = 'gpu') # GPU version (recommended)
+
+        --------------------------------------- --------------------------------------- ---------------------------------------
+        Bio
+        I’m a Data Scientist and a freelancer working primarily in R. In a last 3+ years I was working for companies like Appsilon Data Science, Grupa Wirtualna Polska and PBS when I was solving complicated machine learning problems and building advanced Shiny applications. Nowadays I’m interested mostly in deep learning and it’s applications.
+        "
 talk: true
