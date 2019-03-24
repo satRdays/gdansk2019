@@ -75,6 +75,10 @@
       {{ partial "modals.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.workshop.enable }}
+      {{ partial "workshop_modals.html" . }}
+    {{ end }}
+
     {{ partial "js.html" . }}
   </body>
 </html>
