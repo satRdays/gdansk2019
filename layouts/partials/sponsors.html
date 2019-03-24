@@ -1,17 +1,21 @@
+{{ "<!-- Sponsors Aside -->" | safeHTML }}
 <aside class="sponsors">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-heading"></h2>
+        <h2 class="section-heading">{{ with .Site.Params.sponsors_list.title }}{{ . | markdownify }}{{ end }}</h2>
       </div>
     </div>
     <div class="row flexbox{{ if .Site.Params.sponsors_list.center }} flexbox-center{{ end }}">
 
+      {{ range .Site.Params.sponsors }}
         <div class="col-md-3 col-sm-6 col">
+
             <a href="{{ .link }}">
-              <img src="logos/sponsors.png" class="img-responsive img-centered" alt="">
+              <img src="{{ $url | absURL }}" class="img-responsive img-centered" alt="">
             </a>
         </div>
+
     </div>
   </div>
 </aside>
