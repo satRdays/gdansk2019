@@ -331,6 +331,7 @@ googleAnalytics = "UA-131541418-1"
     [[params.sponsors]]
       logo = "sponsors.png"
       link = "#"
+      weight = 25
 
   # Contact section
   [params.contact]
