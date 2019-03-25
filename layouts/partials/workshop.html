@@ -1,4 +1,4 @@
-{{ "<!-- workshop Grid Section -->" | safeHTML }}
+{{ "<!-- Workshop Grid Section -->" | safeHTML }}
 <section id="workshop" {{ if .Site.Params.workshop.bg }}
          class="bg-light-gray"
          {{ end }}>
@@ -9,12 +9,12 @@
                 <h3 class="section-subheading text-muted">{{ with .Site.Params.workshop.subtitle }}{{ . | markdownify }}{{ end }}</h3>
             </div>
         </div>
-        <div class="Talks">
-            {{ range .Site.Data.projects}}
-            {{ if eq .talk true }
-            <a href="#workshopModal{{ .modalID }}" class="Talk" data-toggle="modal">
-                <img src="img/workshop/{{ .preview }}" class="Talk-image" alt="">
-                <div class="Talk-title">
+        <div class="Workshops">
+            {{ range .Site.Data.workshops}}
+            {{ if eq .talk true }}
+            <a href="#workshopModal{{ .modalID }}" class="Workshop" data-toggle="modal">
+                <img src="img/workshop/{{ .preview }}" class="Workshop-image" alt="">
+                <div class="Workshop-title">
                     <h4>{{ .title | markdownify }}</h4>
                     <p class="text-muted">{{ .client | markdownify }}</p>
                 </div>
