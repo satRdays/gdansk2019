@@ -14,14 +14,14 @@
           <div class="col-lg-8 col-lg-offset-2">
             <div class="modal-body">
               <h2>{{ .title  | markdownify }}</h2>
-                        <p class="item-intro text-muted">{{ .subtitle | markdownify }}</p>
-                        {{ $url := printf "img/portfolio/%s" .img }}
+              <p class="item-intro text-muted">{{ .subtitle | markdownify }}</p>
+              {{ $url := printf "img/portfolio/%s" .img }}
               <p>{{ .description | markdownify }}</p>
               <ul class="list-inline">
-              <li>{{ with $.Site.Params.portfolio.modal.date }}{{ . }}{{ end }}: {{ .date }}</li>
+                <li>{{ with $.Site.Params.portfolio.modal.date }}{{ . }}{{ end }}: {{ .date }}</li>
                 <li>{{ with $.Site.Params.portfolio.modal.category }}{{ . | markdownify }}{{ end }}: {{ .category  | markdownify }}</li>
               </ul>
-              <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.portfolio.modal.buttonText }}{{ . | markdownify }}{{ end }}</button>
+              <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.portfolio.modal.buttonText }}{{ . }}{{ end }}</button>
             </div>
           </div>
         </div>
