@@ -9,7 +9,7 @@ preview: p_biecek.jpeg
 client: Przemyslaw Biecek
 clientLink: "#"
 category: Invited talks
-description: "<p align="left"> Przemysław Biecek is a statistician obsessed with interpretable machine learning and model visualisation.
+description: "<p align='left'> Przemysław Biecek is a statistician obsessed with interpretable machine learning and model visualisation.
               Works as associate professor at Warsaw University of Technology and recently at Samsung R&D. Maker interested in model-human interfaces and applications of predictive models in personalised medicine. 
               Initiator of the Beta and Bit project for data literacy.</p>"
 talk: true
