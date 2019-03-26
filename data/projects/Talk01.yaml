@@ -1,12 +1,12 @@
 modalID: 1
 title: "Machine Learning meets Design"
 subtitle: "First Subtitle"
-date: 1970-01-01
+date: 18 May 2019
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
 preview: p_biecek.jpeg
-client: Przemyslaw Biecek
+speaker: Przemyslaw Biecek
 clientLink: "#"
 category: Invited talks
 description: "Przemysław Biecek is a statistician obsessed with interpretable machine learning and model visualisation. Works as associate professor at Warsaw University of Technology and recently at Samsung R&D. Maker interested in model-human interfaces and applications of predictive models in personalised medicine. Initiator of the Beta and Bit project for data literacy."
