@@ -9,7 +9,8 @@ preview: marcin.jpeg
 client: Marcin Kosinski
 clientLink: "#"
 category: Invited talks
-description: "From the current segmentation one requires them to follow following features: it should be balanced, segments should be distinctive, the discovered over and under indexed features within segments should create a meaningful story, and in the best case the amount of differentiative factors that drives segmentation should be small.
+description: "<p align='left'> From the current segmentation one requires them to follow following features: it should be balanced, segments should be distinctive,
+ the discovered over and under indexed features within segments should create a meaningful story, and in the best case the amount of differentiative factors that drives segmentation should be small.
 
 The last requirement often is a bottleneck in the scenario of a survey where respondents are asked enormous amount of question.
 
@@ -17,5 +18,5 @@ The solution, one from many, to this use case can be the nonnegative matrix fact
 
 I'll present concept of the NMF decomposition and I'll present applications in R, with the explanation of diagnostic plots.
 
-Working with high dimensional data? Often facing the need to group observations? That's a good presentation for you."
+Working with high dimensional data? Often facing the need to group observations? That's a good presentation for you.</p>"
 talk: true
