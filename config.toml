@@ -292,6 +292,18 @@ googleAnalytics = "UA-131541418-1"
            # ["fa-github", "#"],
             ["fa-linkedin", "https://www.linkedin.com/in/michal-maj116/"]
           ]
+    [[params.team.members]]
+          img = "patrik.jpg"
+          name = "Patryk Jasij"
+          position = "Member"
+          reportsTo = ""
+          livesIn = "Gdansk, Poland"
+          social = [
+          #  ["fa-twitter", "#"],
+           # ["fa-github", "#"],
+           # ["fa-linkedin", "#"]
+          ]
+
 
   # Client section
   [params.clients_list]
