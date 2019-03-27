@@ -306,7 +306,7 @@ googleAnalytics = "UA-131541418-1"
 
     [[params.team.members]]
           img = "kf.jpg"
-          name = "Ass. Prof. Dr. Karol Flisikowski"
+          name = "Asst. Prof. Dr. Karol Flisikowski"
           position = "Member"
           reportsTo = ""
           livesIn = "Gdansk, Poland"
