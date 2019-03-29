@@ -294,7 +294,7 @@ googleAnalytics = "UA-131541418-1"
           ]
     [[params.team.members]]
           img = "patrik.jpg"
-          name = "Patryk Jasij"
+          name = "Patryk Jasik"
           position = "Member"
           reportsTo = ""
           livesIn = "Gdansk, Poland"
