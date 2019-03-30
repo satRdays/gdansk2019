@@ -120,7 +120,7 @@ googleAnalytics = "UA-131541418-1"
       icon = "fa-money"
       title = "Affordable"
       description = "Only conference: 70 PLN <br> Only workshops: 140 PLN <br/> Conference & Workshops: 140 PLN"
-      url = "#"
+      url = "#evenea"
 
     [[params.services.row.list]]
       icon = "fa-universal-access"
