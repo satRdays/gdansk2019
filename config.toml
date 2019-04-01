@@ -95,8 +95,8 @@ googleAnalytics = "UA-131541418-1"
     [[params.services.row.list]]
       icon = "fa-fort-awesome"
       title = "Call for papers"
-      description = "<p>Submit your abstract for workshops, oral presentations or lightining talks!</p>
-                        Please keep in your mind, there is no fee for speakers !"
+      description = "<br>Submit your abstract for workshops, oral presentations or lightining talks!</br>
+                        Please keep in your mind, there is no fee for speakers ! "
       url = "https://sessionize.com/satrday-gdansk-2019"
 
     [[params.services.row.list]] 
