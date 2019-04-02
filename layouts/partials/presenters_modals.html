@@ -18,10 +18,10 @@
               {{ $url := printf "img/presenters/%s" .img }}
               <p>{{ .description | markdownify }}</p>
               <ul class="list-inline">
-                <li>{{ with $.Site.Params.presenters.modal.date }}{{ . }}{{ end }}: {{ .date }}</li>
-                <li>{{ with $.Site.Params.presenters.modal.category }}{{ . | markdownify }}{{ end }}: {{ .category  | markdownify }}</li>
+                <li>{{ with $.Site.Params.presenter.modal.date }}{{ . }}{{ end }}: {{ .date }}</li>
+                <li>{{ with $.Site.Params.presenter.modal.category }}{{ . | markdownify }}{{ end }}: {{ .category  | markdownify }}</li>
               </ul>
-              <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.presenters.modal.buttonText }}{{ . }}{{ end }}</button>
+              <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.presenter.modal.buttonText }}{{ . }}{{ end }}</button>
             </div>
           </div>
         </div>
