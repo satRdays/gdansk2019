@@ -31,8 +31,8 @@
       {{ partial "portfolio.html" . }}
     {{ end }}
 
-    {{ if .Site.Params.talks.enable }}
-      {{ partial "talks.html" . }}
+    {{ if .Site.Params.presenters.enable }}
+      {{ partial "presenters.html" . }}
     {{ end }}
 
     {{ if .Site.Params.workshop.enable }}
