@@ -9,7 +9,16 @@ preview: p_biecek.jpeg
 client: Przemyslaw Biecek
 clientLink: "#"
 category: Invited talks
-description: "<p align='left'> Przemysław Biecek is a statistician obsessed with interpretable machine learning and model visualisation.
+description: "
+
+              <br><p align='left'>We are surrounded by machine learning models. They decide which articles we see, which ads are displayed, what kind of shop offers, movies, clips, medical therapies are recommended for us. But, do we understand how these decisions are being made?
+
+Machine learning models are complex. A single decision is sometimes calculated based on millions of parameters. How we can possibly understand them? We desperately need an effective language to explore, explain, debug and validate complex models. 
+
+During this talk we will present a visual language designed to explore predictive models. We will show visual elements of this language, describe how they were designed, and how they can be used.</p> <br/>
+
+              Bio:
+              <br><p align='left'> Przemysław Biecek is a statistician obsessed with interpretable machine learning and model visualisation.
               Works as associate professor at Warsaw University of Technology and recently at Samsung R&D. Maker interested in model-human interfaces and applications of predictive models in personalised medicine. 
-              Initiator of the Beta and Bit project for data literacy.</p>"
+              Initiator of the Beta and Bit project for data literacy.</p> <br/>"
 talk: true
