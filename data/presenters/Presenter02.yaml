@@ -9,5 +9,19 @@ preview: Michal_kolko3.gif
 client: Michał Burdukiewicz
 clientLink: "#"
 category: Talks
-description: ""
+description: "<br><p align='left'>Quantitative Real-Time PCR (qPCR) is a simple and high-throughput method common in research,
+ forensics, and medicine. The popularity of qPCR resulted in the plethora of software devoted to the analysis of qPCR data, 
+ including R packages. Despite that fact, there are no methods for automated assessment of qPCR results. 
+ Thus, we propose the predPCR tool for reproducible classification of qPCR data. 
+ Our model benefits not only from advancements in machine learning, as Bayesian optimization of hyperparameters, 
+ but also from theoretical advancements in the field of qPCR analysis. 
+ A combination of these two factors results in a powerful (AUC ~ 0.95 )yet simple to interpret model. 
+ We present the complete analytical workflow, along with supplementary tools explaining the decision-making process 
+ of predPCR tailored for users less fluent in machine learning. The machine learning approach enabled reliable, scalable, 
+ and automated qPCR curve classification with broad potential clinical and epidemiological applications.
+  A web server is available from http://www.smorfland.uni.wroc.pl/shiny/predPCR/.</p> <br/>
+
+  <p align='left'>Bio:</p>
+  <p align='left'> Bioinformatician (Warsaw University of Technology), R enthusiast, 
+  a founding member of STWUR (Wroclaw R User Group) and the Why R? foundation.</p>"
 talk: true
