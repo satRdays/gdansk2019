@@ -31,6 +31,10 @@
       {{ partial "portfolio.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.talks.enable }}
+      {{ partial "talks.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.workshop.enable }}
       {{ partial "workshop.html" . }}
     {{ end }}
@@ -77,6 +81,10 @@
 
     {{ if .Site.Params.workshop.enable }}
       {{ partial "workshop_modals.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.talks.enable }}
+      {{ partial "talks_modals.html" . }}
     {{ end }}
 
     {{ partial "js.html" . }}

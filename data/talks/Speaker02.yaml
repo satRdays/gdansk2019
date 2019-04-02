@@ -1,0 +1,35 @@
+modalID: 2
+title: "Introduction to deep learning in R with Keras"
+subtitle: "Michal Maj"
+date: 17-05-2019
+startsAt: 00:00
+endsAt: 00:01
+img: michal.jpeg
+preview:
+client: Michal Maj
+clientLink: "#"
+category: Workshops
+description: "With the release of the R Keras package (https://keras.rstudio.com/) (by JJ Allaire and Francois Chollet) at the end of 2017 / beginning 2018 the topic of artificial neural networks and especially deep learning in R became red-hot within the R community.
+
+              In this workshop you will get answers for the following questions:
+              <p>• What are fully connected and convolutional neural networks ?<p/>
+              <p>• How to build a sequential model in Keras (keras_model_sequential() function) ?<p/>
+              <p>• How to compile and fit neural networks in Keras (compile() and fit() functions) ?<p/>
+              <p>• How to add regularization to neural networks (L1, L2, dropout) ?<p/>
+              <p>• How to save and load existing models ?<p/>
+              <p>• How to perform data ingestion and augmentation using generators ?<p/>
+              <p>• How to use pre-trained models and perform fine-tuning ?<p/>
+              <p>• How to use callbacks ?<p/>
+
+              <p>Please make sure to bring your laptop including an up to date R version, RStudio and install Keras:<p/>
+
+              Setup Keras (Make sure to install required prerequisites, before installing Keras using the commands below)
+               <p>install_keras() # CPU version<p/>
+               <p>install_keras(tensorflow = 'gpu') # GPU version (recommended)<p/>
+
+        <p>
+        Bio
+        <p/>
+        I’m a Data Scientist and a freelancer working primarily in R. In a last 3+ years I was working for companies like Appsilon Data Science, Grupa Wirtualna Polska and PBS when I was solving complicated machine learning problems and building advanced Shiny applications. Nowadays I’m interested mostly in deep learning and it’s applications.
+        "
+talk: true
