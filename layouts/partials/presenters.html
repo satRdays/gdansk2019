@@ -9,12 +9,12 @@ class="bg-light-gray"
         <h3 class="section-subheading text-muted">{{ with .Site.Params.presenters.subtitle }}{{ . | markdownify }}{{ end }}</h3>
       </div>
     </div>
-    <div class="Presenters">
+    <div class="Talks">
       {{ range .Site.Data.presenters}}
       {{ if eq .talk true }}
-      <a href="#presentersModal{{ .modalID }}" class="Presenter" data-toggle="modal">
-        <img src="img/presenters/{{ .preview }}" class="Presenter-image" alt="">
-        <div class="Presenter-title">
+      <a href="#presentersModal{{ .modalID }}" class="Talk" data-toggle="modal">
+        <img src="img/presenters/{{ .preview }}" class="Talk-image" alt="">
+        <div class="Talk-title">
           <h4>{{ .title | markdownify }}</h4>
           <p class="text-muted">{{ .client | markdownify }}</p>
         </div>
