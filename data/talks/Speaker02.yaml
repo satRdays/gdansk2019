@@ -32,4 +32,4 @@ description: "With the release of the R Keras package (https://keras.rstudio.com
         <p/>
         I’m a Data Scientist and a freelancer working primarily in R. In a last 3+ years I was working for companies like Appsilon Data Science, Grupa Wirtualna Polska and PBS when I was solving complicated machine learning problems and building advanced Shiny applications. Nowadays I’m interested mostly in deep learning and it’s applications.
         "
-talk: true
+talk: false
