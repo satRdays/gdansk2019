@@ -244,7 +244,7 @@ googleAnalytics = "UA-131541418-1"
       img = "anouncement.jpg"
       date = "30 April 2018"
       title = "Notifying speakers"
-      description = "Accepted papers will be anounced"
+      description = "Accepted papers will be anounced till 30th of April"
 
     [[params.about.events]]
       img = "lastday.jpg"
