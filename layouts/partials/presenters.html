@@ -12,7 +12,7 @@ class="bg-light-gray"
     <div class="Talks">
       {{ range .Site.Data.presenters}}
       {{ if eq .talk true }}
-      <a href="#presenterModal{{ .modalID }}" class="Talk" data-toggle="modal">
+      <a href="#presentersModal{{ .modalID }}" class="Talk" data-toggle="modal">
         <img src="img/presenters/{{ .preview }}" class="Talk-image" alt="">
         <div class="Talk-title">
           <h4>{{ .title | markdownify }}</h4>
