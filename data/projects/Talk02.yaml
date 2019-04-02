@@ -1,14 +1,14 @@
 modalID: 2
-title: "Design meets Machine Learning"
-subtitle: "Design meets Machine Learning" 
+title: "predPCR: an automated classification of qPCR curves"
+subtitle: "predPCR: an automated classification of qPCR curves" 
 date: 18 May 2019
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: hanna_dyrcz.jpeg
-client: Hanna Dyrcz
+preview: Michal_kolko3.gif
+client: Michał Burdukiewicz
 clientLink: "#"
-category: Invited talks
+category: Talks
 description: "
 
  <br><p align='left'>We are surrounded by machine learning models. They decide which articles we see, which ads are displayed, what kind of shop offers, movies, clips, medical therapies are recommended for us. But, do we understand how these decisions are being made?
