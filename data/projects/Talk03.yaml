@@ -1,0 +1,21 @@
+modalID: 3
+title: "Drawing ROC curves"
+subtitle: "Drawing ROC curves" 
+date: 18 May 2019
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: blazej.jpeg
+client: Błażej Kochański
+clientLink: "#"
+category: Invited talks
+description: "
+
+ <br><p align='left'>Sometimes you want to draw a ROC curve while not having a classification model (yet). For example: you consider investing in a new credit scoring system. You hear you may increase your AUROC (area under ROC) by 5 percentage points. In order to translate it into financial results, you need to draw a nonexistent ROC curve.
+
+I will review available options of modelling ROC curves for credit scoring and show which fit the real data best.</p> <br/>
+
+              <p align='left'>Bio:</p>
+
+<p align='left'> Błażej Kochański tries to teach statistics at Politechnika Gdańska, consults banks in risk management if they want to listen, pretends to study physics, helps a startup fashion company to build data intelligence, promotes SME cooperation, raises a 3-year old and a bunch of terrible teens who look nice in pictures. </p>"
+talk: true
