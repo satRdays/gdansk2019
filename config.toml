@@ -358,7 +358,7 @@ googleAnalytics = "UA-131541418-1"
       link = "#"
 
     [[params.clients]]
-      logo = "pg.png"
+      logo = "<br>pg.png</br>"
       link = "#"
 
     [[params.clients]]
