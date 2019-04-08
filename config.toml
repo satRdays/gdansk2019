@@ -337,7 +337,7 @@ googleAnalytics = "UA-131541418-1"
   [params.organizers_list]
     enable = true
     # Possibility to center items
-    #center = true
+    center = true
     # Optional client title specifying the involvement
     title = "Organizers"
     bg = false
