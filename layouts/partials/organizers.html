@@ -14,6 +14,11 @@
           {{ if .link }}
             <a href="{{ .link }}">
               <img src="{{ $url | absURL }}" class="img-responsive img-centered" alt="">
+              <map name="image-map">
+    <area target="" alt="Triger Meetup Page" title="Triger Meetup Page" href="https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/" coords="51,44,445,188" shape="rect">
+    <area target="" alt="Why R Foundation" title="Why R Foundation" href="http://whyr.pl/" coords="521,17,857,215" shape="rect">
+    <area target="" alt="" title="" href="" coords="" shape="rect">
+</map>
             </a>
           {{ else }}
             <img src="{{ $url | absURL }}" class="img-responsive img-centered" alt="">
