@@ -349,7 +349,7 @@ googleAnalytics = "UA-131541418-1"
     #  logo = "found.png"
     #  link = "#"
 
-    [[params.sponsors]]
+    [[params.organizers]]
       logo = "organizers.png"
       link = "#"
   
