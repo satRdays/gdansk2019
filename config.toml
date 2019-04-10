@@ -379,12 +379,12 @@ googleAnalytics = "UA-131541418-1"
       link = "#"
 
   # Media Partner section
-  [params.media_partner_list]
+  [params.media_partners_list]
     enable = true
     # Possibility to center items
     #center = true
     # Optional client title specifying the involvement
-    title = "Sponsors"
+    title = "Media Partners"
     bg = false
 
     # All the sponsors' logos are stored under 'static/img/logos'.
