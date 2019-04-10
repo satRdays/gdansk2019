@@ -395,7 +395,7 @@ googleAnalytics = "UA-131541418-1"
     #  link = "#"
 
     [[params.media_partners]]
-      logo = "media_partners.png"
+      logo = "media_partners2.png"
       link = "#"   
 
   # Contact section
