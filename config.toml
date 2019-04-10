@@ -375,7 +375,7 @@ googleAnalytics = "UA-131541418-1"
     #  link = "#"
 
     [[params.sponsors]]
-      logo = "sponsors.png"
+      logo = "all_sponsors_satRday_v2.png"
       link = "#"
 
   # Contact section
