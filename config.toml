@@ -395,11 +395,7 @@ googleAnalytics = "UA-131541418-1"
     #  link = "#"
 
     [[params.media_partners]]
-      logo = "all_sponsors_satRday_v2.png"
-      link = "#"   
-
-    [[params.media_partners]]
-      logo = "all_sponsors_satRday_v2.png"
+      logo = "media_partners.png"
       link = "#"   
 
   # Contact section
