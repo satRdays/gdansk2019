@@ -378,6 +378,30 @@ googleAnalytics = "UA-131541418-1"
       logo = "all_sponsors_satRday_v2.png"
       link = "#"
 
+  # Media Partner section
+  [params.media_partner_list]
+    enable = true
+    # Possibility to center items
+    #center = true
+    # Optional client title specifying the involvement
+    title = "Sponsors"
+    bg = false
+
+    # All the sponsors' logos are stored under 'static/img/logos'.
+    # Replace them with your sponsors's logos.
+    # Suggestion: .svg in the size of 280px*80px looks good
+    #[[params.media_partners]]
+    #  logo = "found.png"
+    #  link = "#"
+
+    [[params.media_partners]]
+      logo = "all_sponsors_satRday_v2.png"
+      link = "#"   
+
+    [[params.media_partners]]
+      logo = "all_sponsors_satRday_v2.png"
+      link = "#"   
+
   # Contact section
   [params.contact]
     enable = true

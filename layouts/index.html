@@ -67,6 +67,10 @@
       {{ partial "sponsors.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.media_partners_list.enable }}
+      {{ partial "media_partners.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.contact.enable }}
       {{ partial "contact.html" . }}
     {{ end }}
