@@ -1,0 +1,41 @@
+modalID: 3
+title: "Web Scraping with rvest"
+subtitle: "Andrew Collier"
+date: 17-05-2019
+startsAt: 00:00
+endsAt: 00:01
+img: Andrew_Collier.jpg
+preview:
+client: Andrew Collier
+clientLink: "#"
+category: Workshops
+description: "
+There's a wealth of data available on the internet which can be used for data augmentation or to create entirely new datasets. In this workshop you'll learn how to use R to selectively scrape content from websites.
+
+ <p> - Motivating Example  </p>
+ <p> - Introduction to Scraping  </p>
+ <p> - The components of an HTML document  </p>
+ <p> - Building a simple HTML document  </p>
+ <p> - DOM  </p>
+ <p> - CSS  </p>
+ <p> - XPath </p>
+ <p> - Developer Tools </p>
+ <p> - Important files: `robots.txt` and `sitemap.xml` </p>
+ <p> - Ethics  </p>
+ <p> - HTTP  </p>
+ <p> - How HTTP works  </p>
+ <p> - Scraping a Static Website using [rvest](https://github.com/hadley/rvest)  </p>
+ <p> - Retrieving page content  </p>
+ <p> - Navigation  </p>
+ <p> - Extracting text  </p>
+ <p> - Extracting attributes  </p>
+ <p> - Working with tables  </p>
+ <p> - Storing data as CSV or JSON.  </p>
+ <p> - Case Study  </p>
+
+        <p>
+        Bio
+        <p/>
+      Andrew Collier is a Data Scientist. He works mostly in R, Python and SQL, but dabbles in a range of other technologies.
+        "
+talk: true
