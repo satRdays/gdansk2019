@@ -1,12 +1,12 @@
 modalID: 6
 title: "A Case Study on Machine Learning Classification Algorithms in R"
-subtitle: "A Case Study on Machine Learning Classification Algorithms in R" 
+subtitle: "Olgun Aydin , Ezgi Nazman Çabuk"
 date: 18 May 2019
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
 preview: olgun.jpeg
-client: Olgun Aydin , Ezgi Nazman Çabuk
+client: Olgun Aydin
 clientLink: "#"
 category: Talks
 description: "<br><p align='left'>With the continuous development of machine learning packages in R, statistical classification algorithms have been widely preferred to learn the performance of discrete label output (groups) with the help of these packages in many fields. On the other hand, researchers can confronted with some data sets which have no groups while it is available to be grouped by many other statistical methods. Data Envelopment Analysis (DEA), is a non-parametric method based on linear programming principles, can generate the grouped data as efficient and inefficient. 
@@ -21,4 +21,4 @@ Finally, we evaluated the grouping results in terms of accuracy rate using sever
   <p align='left'> Olgun Aydin is a PhD candidate at the Department of Statistics at Mimar Sinan University, and is studying deep learning for his thesis. He also works as a data scientist. Olgun is familiar with big data technologies, such as Hadoop and Spark, and is a very big fan of R. He has already published academic papers about the application of statistics, machine learning, and deep learning. He loves statistics, and loves to investigate new methods and share his experience with other people.</p>
   <p align='left'> Ezgi Nazman Çabuk is a Research Assistant in Gazi University Department of Statistics where she has been studying for a PhD since 2015. She completed her Bachelor education at Ege University Department of Statistics in 2012. She was Erasmus student in University of Hradec Kralove, Informatics and Management between September 2011 - June 2012. From 2013-2015, she held Master of Science study in Statistics, Gazi University on combined cluster and discriminant analysis. Nowadays, she is studying on her PhD thesis.Her research interests lie in the area of statistics, data mining and machine learning, ranging from theory to implementation</p>"
 
-talk: false
+talk: true
