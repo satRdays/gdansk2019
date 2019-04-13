@@ -1,0 +1,24 @@
+modalID: 6
+title: "A Case Study on Machine Learning Classification Algorithms in R"
+subtitle: "A Case Study on Machine Learning Classification Algorithms in R" 
+date: 18 May 2019
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: olgun.jpeg
+client: Olgun Aydin
+clientLink: "#"
+category: Talks
+description: "<br><p align='left'>With the continuous development of machine learning packages in R, statistical classification algorithms have been widely preferred to learn the performance of discrete label output (groups) with the help of these packages in many fields. On the other hand, researchers can confronted with some data sets which have no groups while it is available to be grouped by many other statistical methods. Data Envelopment Analysis (DEA), is a non-parametric method based on linear programming principles, can generate the grouped data as efficient and inefficient. 
+
+It is also important to evaluate this grouping results with classification algorithms. As it is known, Logistic Regression, Decision Trees, Artificial Neural Networks, Support Vector Machine the algorithms are most widely used classification methods in literature. 
+
+With this respect, we aimed to compare these classification performances on DEA grouping result. First, we obtained data set from Social Progress Index includes data from only 123 non-OECD countries on 7 indicators which consist of undernourishment (% of population; 5 signifies ≤5), depth of food deficit (calories/undernourished person), deaths from infectious disease (deaths/100.000), traffic deaths (deaths/100.000), greenhouse gas emission (CO2 equivalents per GDP), maternal mortality deaths (deaths/100.000 live births), and life expectancy (at years). The undernourishment, depth of food deficit, deaths from infectious disease, and traffic deaths were considered as related indicators on life expectancy. Second, we constructed an input oriented Charnes-Cooper-Rhodes (CCR) model (Charnes, Cooper, and Rhodes, 1978), where the life expectancy is output and other indicators are inputs. As a result, efficient and inefficient countries were obtained in terms of these indicators using Benchmarking package in R. 
+
+Finally, we evaluated the grouping results in terms of accuracy rate using several classification algorithms such as Logistic Regression, Decision Tree, Artificial Neural Networks, Support Vector Machine on this grouped data set using glm, keras , caret packages in R. </p> <br/>
+
+  <p align='left'>Bio:</p>
+  <p align='left'> Olgun Aydin is a PhD candidate at the Department of Statistics at Mimar Sinan University, and is studying deep learning for his thesis. He also works as a data scientist. Olgun is familiar with big data technologies, such as Hadoop and Spark, and is a very big fan of R. He has already published academic papers about the application of statistics, machine learning, and deep learning. He loves statistics, and loves to investigate new methods and share his experience with other people.</p>
+  <p align='left'> Ezgi Nazman is a Research Assistant in Gazi University Department of Statistics where she has been studying for a PhD since 2015. She completed her Bachelor education at Ege University Department of Statistics in 2012. She was Erasmus student in University of Hradec Kralove, Informatics and Management between September 2011 - June 2012. From 2013-2015, she held Master of Science study in Statistics, Gazi University on combined cluster and discriminant analysis. Nowadays, she is studying on her PhD thesis.Her research interests lie in the area of statistics, data mining and machine learning, ranging from theory to implementation</p>"
+
+talk: false

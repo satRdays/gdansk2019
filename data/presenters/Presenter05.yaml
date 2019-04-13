@@ -1,0 +1,27 @@
+modalID: 5
+title: "Tuning & Bootstrapping Performance ML Model"
+subtitle: "Tuning & Bootstrapping Performance ML Model"
+date: 18 May 2019
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: photo_MNawrocka.jpg
+client: Monika Nawrocka
+clientLink: "#"
+category: Talks
+description: "<br><p align='left'>
+Building Machine Learning models seems to be simple. We have many easily applicable
+libraries for different purpose functions. However, it does not always turn out that our models
+bring the expected results. Sometimes it even happens that the learned model on the training
+set is evaluated high, and after testing on new sets, it incorrectly assesses the reality.
+Tuning hyperparameters and modeling by re-sampling the sample data and performing
+inferences on the sample from the re-tested data may be a solution to improve the quality of
+already built models. The main advantage of such bootstrap samples is the measurability of
+inference based on a real sample from the re-tested data.
+  <p align='left'>Bio:</p>
+  <p align='left'> Monika Nawrocka is a data analyst at BEST S.A. and a doctor in optimization and
+  mathematical modeling. Beginning her career at Machine Learning, she sought constructive
+  remarks about her own work in the knowledge of outstanding scientists during scientific
+  conferences at renowned discipleships, including Massachusetts Institute of Technology,
+  Osaka City University or the Imperial College of London."
+talk: true
