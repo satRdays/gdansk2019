@@ -1,0 +1,19 @@
+modalID: 7
+title: "drake: reproducible workflow management in R"
+subtitle: "Dominik Rafacz"
+date: 18 May 2019
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Dominik_Rafacz.png
+client: Dominik Rafacz
+clientLink: "#"
+category: Lightning Talks
+description: "<br><p align='left'>drake (Landau 2018, https://cran.r-project.org/package=drake) is an R package for reproducible data analysis workflows. Inspired by the GNU Make build system, drake controls all tasks involved in the data analysis. The abstraction system of drake incorporates all analytic steps, from data acquisition to report generation. The package orchestrates the execution of the workflow and automatically caches the results of every step. Additionally, drake monitors dependencies between these tasks pointing out when the alteration of a single task affects the others. It reduces the time needed to rerun the workflow, as drake evaluates only altered step while relying on cached results of the non-altered. Finally, drake simplifies accessing the parallelization backends and streamlines running the workflow on multicore systems or even supercomputers. drake pipelines, designed directly in R and exported as R objects further enhance the workflow reproducibility. During my presentation, I show how with the help of containers and the drake package reach the pinnacles of reproducibility in R.
+</p> <br/>
+
+  <p align='left'>Bio:</p>
+  <p align='left'> Student of Data Analysis and Engineering at Warsaw University of Technology. R enthusiast, passionate about data analysis and bioinformatics
+  </p>"
+
+talk: true
