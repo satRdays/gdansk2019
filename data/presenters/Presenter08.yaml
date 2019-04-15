@@ -8,7 +8,7 @@ img: roundicons.png
 preview: Bartłomiej_Staszkiewicz.jpg
 client: Bartłomiej Staszkiewicz
 clientLink: "#"
-category: Lightning Talks
+category: Talk
 description: "<br><p align='left'>As larger quantities of data are being stored and managed by enterprises of all kinds, NoSQL storage solutions are becoming more popular. Elasticsearch is a popular, high-performance NoSQL data storage option, but it is often unfamiliar to end users and difficult to navigate for day to day analytic tasks. It provides a distributed full-text search engine with a HTTP web interface and schema-free JSON documents.
 
 This presentation will briefly discuss the benefits and disadvantages of Elasticsearch on Amazon Web Services (Amazon Elasticsearch Service) and describe in detail and with examples, how efficiently transfer data between ES and R. Three packages designed for this work - elastic, elasticsearchr and uptasticsearch (R and similar on Python) will be introduced. In addition, methods to deal with nested data (from JSON) and its conversion to data frame will be presented.

@@ -1,19 +1,28 @@
 modalID: 7
-title: "drake: reproducible workflow management in R"
-subtitle: "Dominik Rafacz"
+title: "A shiny application enabling facial attractiveness evaluation for purposes of plastic surgery"
+subtitle: "Lubomír Štěpánek"
 date: 18 May 2019
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Dominik_Rafacz.png
-client: Dominik Rafacz
+preview: Lubomir_Stepanek.png
+client: Lubomír Štěpánek
 clientLink: "#"
 category: Lightning Talks
-description: "<br><p align='left'>drake (Landau 2018, https://cran.r-project.org/package=drake) is an R package for reproducible data analysis workflows. Inspired by the GNU Make build system, drake controls all tasks involved in the data analysis. The abstraction system of drake incorporates all analytic steps, from data acquisition to report generation. The package orchestrates the execution of the workflow and automatically caches the results of every step. Additionally, drake monitors dependencies between these tasks pointing out when the alteration of a single task affects the others. It reduces the time needed to rerun the workflow, as drake evaluates only altered step while relying on cached results of the non-altered. Finally, drake simplifies accessing the parallelization backends and streamlines running the workflow on multicore systems or even supercomputers. drake pipelines, designed directly in R and exported as R objects further enhance the workflow reproducibility. During my presentation, I show how with the help of containers and the drake package reach the pinnacles of reproducibility in R.
+description: "<br><p align='left'>The ways how to evaluate facial attractiveness complexly and how to make comparisons between facial images of patients before and after facial plastic surgery procedure are still unclear and require ongoing research.
+
+In this study, we have developed a web-based shiny application providing facial image processing, both manual and automated landmarking, facial geometry computations and machine-learning models allowing to identify geometric facial features associated with an increase of facial attractiveness after undergoing rhinoplasty, common facial plastic surgery.
+
+Patients’ facial image data were processed, landmarked and analysed using the application. Facial attractiveness was measured using Likert scale by a board of independent observers. Machine-learning built-in approaches were performed to select predictors increasing facial attractiveness after undergoing rhinoplasty.
+
+The shiny web framework enables to develop a complex web interface including HTML, CSS and javascript front-end and R-based back-end bridging C++ library dlib which performs image computations. In addition, the connected shinyjs package offers a user-server clickable interaction useful for the landmarking.
+
+keywords: shiny, R, machine learning, facial attractiveness, plastic surgery
 </p> <br/>
 
   <p align='left'>Bio:</p>
-  <p align='left'> Student of Data Analysis and Engineering at Warsaw University of Technology. R enthusiast, passionate about data analysis and bioinformatics
-  </p>"
+  <p align='left'> Biostatistician, Software Developer, Junior Lecturer, PhD Candidate at First Faculty of Medicine, Charles University & Faculty of Biomedical Engineering, Czech Technical University in Prague (CZ)
+
+I am a Master's student in Statistics and a Ph.D. candidate in Biomedical Informatics focused on medical decision-making systems and facial attractiveness evaluation for purposes of plastic surgery. Moreover, I am a big R enthusiast, a medical doctor -- former oncologist, and a junior university lecturer in Introductory Informatics, Statistics and R courses. Besides, I work as a data analyst for a small company consulting machine-learning, econometrics, actuarial sciences, and insurances.
 
 talk: true
