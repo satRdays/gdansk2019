@@ -1,27 +1,21 @@
 modalID: 8
-title: "Deploying a Plumber API with Docker"
-subtitle: "Andrew Collier "
+title: "Elasticsearch and R - deal with it!"
+subtitle: "Bartłomiej Staszkiewicz"
 date: 18 May 2019
 startsAt: 00:00
 endsAt: 00:01
 img: roundicons.png
-preview: Andrew_Collier.jpg
-client: Andrew Collier
+preview: Bartłomiej_Staszkiewicz.jpg
+client: Bartłomiej Staszkiewicz
 clientLink: "#"
 category: Lightning Talks
-description: "<br><p align='left'>Plumber makes it possible to easily transform your R functions into an API. Developing and testing the API locally is simple, but deploying it can be more of a challenge. Docker provides just what you need to ensure that the API is launched in a well defined, stable and isolated environment. These are some of the handiest tools to have in your toolbox!
+description: "<br><p align='left'>As larger quantities of data are being stored and managed by enterprises of all kinds, NoSQL storage solutions are becoming more popular. Elasticsearch is a popular, high-performance NoSQL data storage option, but it is often unfamiliar to end users and difficult to navigate for day to day analytic tasks. It provides a distributed full-text search engine with a HTTP web interface and schema-free JSON documents.
 
-                                  This short talk will show how to:
-
-                                <p> - whip up a quick API by merely decorating your existing R code with comments, then </p>
-                                <p> - write a simple Dockerfile to provide a runtime environment and finally </p>
-                                <p> - deploy the API in the cloud. </p>
-
-                                  All of this in the timeframe of a lightning talk. Booya!
+This presentation will briefly discuss the benefits and disadvantages of Elasticsearch on Amazon Web Services (Amazon Elasticsearch Service) and describe in detail and with examples, how efficiently transfer data between ES and R. Three packages designed for this work - elastic, elasticsearchr and uptasticsearch (R and similar on Python) will be introduced. In addition, methods to deal with nested data (from JSON) and its conversion to data frame will be presented.
 </p> <br/>
 
   <p align='left'>Bio:</p>
-  <p align='left'> Andrew Collier is a Data Scientist. He works mostly in R, Python and SQL, but dabbles in a range of other technologies.
+  <p align='left'> Data Analyst at Excedo (joint venture of Nikkei Japan and Financial Times)
   </p>"
 
 talk: true

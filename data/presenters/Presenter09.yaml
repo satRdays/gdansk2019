@@ -1,0 +1,27 @@
+modalID: 9
+title: "Deploying a Plumber API with Docker"
+subtitle: "Andrew Collier "
+date: 18 May 2019
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Andrew_Collier.jpg
+client: Andrew Collier
+clientLink: "#"
+category: Lightning Talks
+description: "<br><p align='left'>Plumber makes it possible to easily transform your R functions into an API. Developing and testing the API locally is simple, but deploying it can be more of a challenge. Docker provides just what you need to ensure that the API is launched in a well defined, stable and isolated environment. These are some of the handiest tools to have in your toolbox!
+
+                                  This short talk will show how to:
+
+                                <p> - whip up a quick API by merely decorating your existing R code with comments, then </p>
+                                <p> - write a simple Dockerfile to provide a runtime environment and finally </p>
+                                <p> - deploy the API in the cloud. </p>
+
+                                  All of this in the timeframe of a lightning talk. Booya!
+</p> <br/>
+
+  <p align='left'>Bio:</p>
+  <p align='left'> Andrew Collier is a Data Scientist. He works mostly in R, Python and SQL, but dabbles in a range of other technologies.
+  </p>"
+
+talk: true
