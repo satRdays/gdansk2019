@@ -1,0 +1,52 @@
+modalID: 4
+title: "Introduction to Tidyverse"
+subtitle: "Jakub Borkowski, Jan Wasilewski"
+date: 17-05-2019
+startsAt: 00:00
+endsAt: 00:01
+img: 
+preview:
+client: Jakub Borkowski, Jan Wasilewski
+clientLink: "#"
+category: Workshops
+description: "
+No matter if You have already encountered R environment or just heard about
+the general idea. We are here not only to introduce this brilliant, complete tool
+but also to provide You with further guidelines. When it comes to describing
+the program’s greatest advantage, it could be associated with its simplicity and
+robustness.
+Tidyverse is one of the examples of that simple yet complex solutions. Itconsists of all packages that entry level data scientist could need. So if You are considering learning data science in R or maybe taking up an R programming course this lecture will make You stop racking Your brain on and start 
+immediately.Majority of the tidyverse components and their usage will be discussed.
+
+<p> You will find following setup helpful during the meeting.
+
+ R and RStudio installed on Your PC. R link: https://cran.r-project.org/bin/windows/base/R-
+3.5.3-win.exe. RStudio link: https://www.rstudio.com/products/rstudio/download/#download
+
+ Tidyverse installed and loaded. Use „install.packages(‘tidyverse’)” com-
+mand.
+
+ Slack account created, code chunks will be uploaded there. Link: https://slack.com/ <p/>
+
+        <p>
+        Bio
+        <p/>
+<p>Jakub Borkowski; Math student, AI solutions passionate, pension founder.
+Unsteady soul keeps me on the run, in seek of new development tracks.
+Recently, I have learned how to implement a handful of machine learning models,
+bake souffl ́e properly and manage small hotel. Moreover, with my colleague and
+a few Shiny developers we decided to improve healthcare system in our country.
+My main interests are developing AI- powered solutions, exploring foreign
+
+countries (mainly Africa/ Iberian Peninsula), instrumental jazz, tennis, someti-
+mes risk management methods and startup founding.
+ <p/>
+Jan Wasilewski; Studies financial mathematics, for the time being encompassed by a vision of
+getting more and more familiar with machine learning. During the semester
+eager to delve into variety of more and less professional realms, in a time of a
+journey happens to be just a laid- back traveler. If You would not mind learning
+in a rhytm of african drums, You definetely should listen to the lecture.
+
+Interests: Travels around Asia, Bayesian neural networks, underlying mathe-
+matical theory of AI, white blues and salsa."
+talk: true
