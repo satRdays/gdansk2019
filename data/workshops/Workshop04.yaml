@@ -14,19 +14,15 @@ No matter if You have already encountered R environment or just heard about
 the general idea. We are here not only to introduce this brilliant, complete tool
 but also to provide You with further guidelines. When it comes to describing
 the program’s greatest advantage, it could be associated with its simplicity and
-robustness.
-Tidyverse is one of the examples of that simple yet complex solutions. Itconsists of all packages that entry level data scientist could need. So if You are considering learning data science in R or maybe taking up an R programming course this lecture will make You stop racking Your brain on and start 
+robustness. Tidyverse is one of the examples of that simple yet complex solutions. Itconsists of all packages that entry level data scientist could need. So if You are considering learning data science in R or maybe taking up an R programming course this lecture will make You stop racking Your brain on and start 
 immediately.Majority of the tidyverse components and their usage will be discussed.
 
-<p> You will find following setup helpful during the meeting.
+<p> You will find following setup helpful during the meeting.</p> 
 
- R and RStudio installed on Your PC. R link: https://cran.r-project.org/bin/windows/base/R-
-3.5.3-win.exe. RStudio link: https://www.rstudio.com/products/rstudio/download/#download
-
- Tidyverse installed and loaded. Use „install.packages(‘tidyverse’)” com-
-mand.
-
- Slack account created, code chunks will be uploaded there. Link: https://slack.com/ <p/>
+<p> R and RStudio installed on Your PC. R link: https://cran.r-project.org/bin/windows/base/R-3.5.3-win.exe </p> 
+<p> RStudio link: https://www.rstudio.com/products/rstudio/download/#download </p> 
+<p>Tidyverse installed and loaded. Use install.packages(‘tidyverse’) command.</p> 
+<p>Slack account created, code chunks will be uploaded there. Link: https://slack.com/</p> 
 
         <p>
         Bio
