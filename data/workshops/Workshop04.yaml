@@ -19,7 +19,8 @@ immediately.Majority of the tidyverse components and their usage will be discuss
 
 <p> You will find following setup helpful during the meeting.</p> 
 
-<p> R and RStudio installed on Your PC. R link: https://cran.r-project.org/bin/windows/base/R-3.5.3-win.exe </p> 
+<p> R and RStudio installed on Your PC. 
+<p> R link: https://cran.r-project.org/bin/windows/base/R-3.5.3-win.exe </p> 
 <p> RStudio link: https://www.rstudio.com/products/rstudio/download/#download </p> 
 <p>Tidyverse installed and loaded. Use install.packages(‘tidyverse’) command.</p> 
 <p>Slack account created, code chunks will be uploaded there. Link: https://slack.com/</p> 
