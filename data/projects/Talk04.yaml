@@ -1,0 +1,37 @@
+modalID: 4
+title: "Joint modeling and dynamic predictions with applications to cancer research using R
+package frailtypack"
+subtitle: "Joint modeling and dynamic predictions with applications to cancer research using R
+package frailtypack" 
+date: 18 May 2019
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: agnieszka_król.jpg
+client: Agnieszka Król
+clientLink: "#"
+category: Invited talks
+description: "
+
+ <br><p align='left'>In the medical research different kinds of patient information are gathered over time
+together with clinical outcome data such as overall survival (OS). Joint models enable
+analysis of correlated data of different types such as individual repeated data together with
+OS. The repeated data may be recurrent events e.g., appearance of new lesions or a
+longitudinal outcome called biomarker e.g., tumor size. Moreover, joint models are useful
+for individual dynamic predictions of death using a patient’s history. The talk will introduce
+joint frailty models for recurrent events and a terminal event as well as present a
+multivariate joint model for longitudinal marker, recurrent events and survival in the
+context of treatment evaluation in cancer clinical trials. Presentation of implementing these
+methods will be given using the R package frailtypack.</p> <br/>
+
+              <p align='left'>Bio:</p>
+
+<p align='left'> Agnieszka Król graduated in Mathematics at Politechnika Gdańska. She did her PhD training
+in Biostatistics at University of Bordeaux on development and applications of statistical
+models to the analysis of survival and longitudinal data coming from clinical trials on cancer
+treatment evaluation. As a postdoctoral research fellow she continued her research in
+correlated survival outcomes analysis at the Lunenfeld-Tanenbaum Research Institute (LTRI)
+at Mount Sinai Hospital, Toronto and, currently, at AstraZeneca. In parallel, she develops
+statistical software (R packages) for proposed methods and publish them for other
+researchers. Mother of two wonderful kids: two-year-old girl and 7-month-old boy.</p>"
+talk: true
