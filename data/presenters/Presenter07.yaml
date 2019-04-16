@@ -8,7 +8,7 @@ img: roundicons.png
 preview: Lubomir_Stepanek.png
 client: Lubomír Štěpánek
 clientLink: "#"
-category: Lightning Talks
+category: Talks
 description: "<br><p align='left'>The ways how to evaluate facial attractiveness complexly and how to make comparisons between facial images of patients before and after facial plastic surgery procedure are still unclear and require ongoing research.
 
 In this study, we have developed a web-based shiny application providing facial image processing, both manual and automated landmarking, facial geometry computations and machine-learning models allowing to identify geometric facial features associated with an increase of facial attractiveness after undergoing rhinoplasty, common facial plastic surgery.
