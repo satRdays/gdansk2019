@@ -166,6 +166,13 @@ googleAnalytics = "UA-131541418-1"
       # Go to Organizer > My Events > Dashboard and copy the "CfS Page" string into the `CfSpage` value
     dates = "15 January and 30 April 2019"
 
+  # Program section
+  [params.program]
+    enable = true
+    title = "Program"
+    bg = false
+
+
   # Talk [Portfolio] section
   [params.portfolio]
     enable = true

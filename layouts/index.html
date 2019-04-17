@@ -27,6 +27,10 @@
       {{ partial "callforpapers.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.program.enable }}
+      {{ partial "program.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.portfolio.enable }}
       {{ partial "portfolio.html" . }}
     {{ end }}
