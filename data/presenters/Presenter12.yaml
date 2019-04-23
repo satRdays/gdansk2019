@@ -1,0 +1,17 @@
+modalID: 12
+title: "HaDeX - analysis of HDX-MS data"
+subtitle: ""
+date: 18 May 2019
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Weronika_Puchała.jpg
+client: Weronika Puchała
+clientLink: "#"
+category: Lightning Talks
+description: "<br><p align='left'>Complex and precise experiments like Mass Spectrometry generate an enormous amount of data. Such datasets require manual pre-processing, which due to their size, is tedious, time-consuming and error-prone. To automatise these steps and also provide a whole analytic workflow, we present HaDeX, an R package for analysis and visualization of Hydrogen/Deuterium Exchange Mass Spectrometry (HDX-MS) data. As we do not want to limit our tools to users familiar with programming, HaDeX is also available as a Shiny web server. It facilitates complete data analysis, including quality control and Bayesian framework for differential analysis. The sheer volume of data requires highly efficient data processing which is ensured by the data.table package. Our tool also provides a collection of data visualizations that comprehensively summarize HDX-MS results. In addition to that, our analytic methodology is discussed in-depth in the package vignette. The package is available on GitHub: https://github.com/michbur/HaDeX.</p> <br/>
+
+  <p align='left'>Bio:</p>
+  <p align='left'> Bioinformatician, Data Scientist and PhD Student in the Institute of Biochemistry and Biophysics Polish Academy of Sciences  </p>"
+
+talk: true
