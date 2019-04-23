@@ -1,0 +1,19 @@
+modalID: 11
+title: "Bayesian inference in big data analysis"
+subtitle: "Katarzyna Sidorczuk"
+date: 18 May 2019
+startsAt: 00:00
+endsAt: 00:01
+img: roundicons.png
+preview: Katarzyna_Sidorczuk.jpg
+client: Katarzyna Sidorczuk
+clientLink: "#"
+category: Lightning Talks
+description: "<br><p align='left'>The ‘large p small n’ problem occurs when the number of available covariates is significantly larger than sample size. Such short fat data is a common issue in medical studies, where the availability of patients is limited. Frequentist methods fail in such cases as the correction for multiple testing results in very high p-values. In consequence, it is difficult to distinguish significant effects from noise. To address these problems, we used Stan software for performing Bayesian modeling and inference. The R interface to Stan is available as the rstan package allowing to easily fit models from R and access its outputs. The Bayesian approach provides a widespread value distribution over, e.g., the effect size that is more interpretable than p-values. We applied this method for analysis of data derived from peptide arrays - collections of short protein fragments used in research and diagnostics. They allow testing thousands of peptides simultaneously, bringing advantage to search for new biomarkers used for clinical diagnoses of different diseases, including cancers. We compared frequentist and Bayesian methods and present advantage of the latter in big data analysis.
+</p> <br/>
+
+  <p align='left'>Bio:</p>
+  <p align='left'> Bioinformatician, MSc student at Faculty of Biotechnology, University of Wrocław), member of STWUR (Wrocław R User Group).
+  </p>"
+
+talk: true
