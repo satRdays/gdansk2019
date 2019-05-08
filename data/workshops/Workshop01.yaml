@@ -1,10 +1,10 @@
 modalID: 1
 title: "Modern and beautiful dashboards: building Shiny Apps using SemanticUI components"
-subtitle: "Dominik Krzemiński"
+subtitle: "Dominik Krzemiński, Krzysztof Sprycha"
 date: 17-05-2019
 startsAt: 00:00
 endsAt: 00:01
-img: dominik.jpg
+img: dominik2.jpg
 preview:
 client: Dominik Krzemiński
 clientLink: "#"
@@ -15,5 +15,8 @@ description: "Ever wonder why the majority of Shiny apps look the same? Do you w
 <p>
               Bio
 <p/>
-              Dominik Krzemiński is an Open Source Tech Lead at Appsilon Data Science. He enjoys contributing to open source tools, primarily in R and Python. Dominik participated in Google Summer of Code program twice, developing Python tools supporting neuroscientific analysis. Before focusing entirely on Appsilon’s open source projects, he participated in bioinformatics data analysis and visualization projects. Currently, Dominik pursues PhD in computational neuroscience at Cardiff University. Privately, a fan of all kinds of board sports and capoeira."
+ <p>Dominik Krzemiński is an Open Source Tech Lead at Appsilon Data Science. He enjoys contributing to open source tools, primarily in R and Python. Dominik participated in Google Summer of Code program twice, developing Python tools supporting neuroscientific analysis. Before focusing entirely on Appsilon’s open source projects, he participated in bioinformatics data analysis and visualization projects. Currently, Dominik pursues PhD in computational neuroscience at Cardiff University. Privately, a fan of all kinds of board sports and capoeira.<p/>
+Krzysztof Sprycha is graduate of Electronics and Telecommunication at Technical University in Gdańsk with specialization in Sound and Vision engineering. Before diving into data-science related topics he used to create apps for mobile platforms as well as games with Unreal Engine. Currently working at Appsilon Data Science as a Software Engineer. After hours he loves spinning records and rollerskating among other activities.
+
+ "
 talk: true
