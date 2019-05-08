@@ -6,7 +6,7 @@ startsAt: 00:00
 endsAt: 00:01
 img: dominik2.jpg
 preview:
-client: Dominik Krzemiński
+client: Dominik Krzemiński,Krzysztof Sprycha
 clientLink: "#"
 category: Workshops
 description: "Ever wonder why the majority of Shiny apps look the same? Do you want your Shiny app to stand out? If yes, this tutorial on building extraordinary Shiny dashboards is for you.
